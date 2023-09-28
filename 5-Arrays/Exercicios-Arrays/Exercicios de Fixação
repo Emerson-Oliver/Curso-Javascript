@@ -1,0 +1,25 @@
+## Exercicios:
+1. Crie um array vazio chamado meuArray.
+
+2. Adicione um elemento "Maçã" ao meuArray.
+
+3. Adicione três números inteiros (por exemplo, 1, 2, 3) ao meuArray.
+
+4. Acesse e exiba o segundo elemento do meuArray.
+
+5. Crie um novo array chamado outroArray com os valores 4, 5 e 6.
+
+6. Concatene outroArray com meuArray e armazene o resultado em uma variável chamada arrayConcatenado.
+
+7. Remova o último elemento de arrayConcatenado.
+
+8. Verifique se o valor 3 está presente em arrayConcatenado e exiba uma mensagem indicando se ele está ou não.
+
+9. Crie uma função chamada somarArray que aceita um array de números como argumento e retorna a soma de todos os elementos desse array.
+
+10. Crie uma função chamada maiorNumero que aceita um array de números como argumento e retorna o maior número presente no array.
+
+11. Crie uma função chamada removerDuplicatas que aceita um array como argumento e retorna um novo array sem elementos duplicados.
+
+12. Crie uma função chamada inverterArray que aceita um array como argumento e retorna um novo array com os elementos na ordem inversa.
+
